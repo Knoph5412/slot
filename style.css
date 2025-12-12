@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.sllb{
+  text-align: center;
+  background-color: white;
+  border: 1px solid white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: blue;
+}
+body{
+  background-color: whitesmoke;
+  margin: 0;
+}
+.top{
+
+}
+.hr1{
+  color: orange;
+}
+.p{
+  text-align: center;
+}
+table{
+  background-color: white;
+  justify-content: center;
+  display: flex;
+}
+.a{
+  text-align: center;
+}
+.img{
+  width: 50%;
+  height: 50%;
+}
+.rogo{
+  width: 5%;
+  height: 5%;
+}
